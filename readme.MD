@@ -3,6 +3,8 @@
 ## Overview
 This Docker Compose setup deploys **Wiki.js**, a powerful and extensible wiki platform, along with **PostgreSQL** as the database, **Elasticsearch** for search functionality, and **Kibana** for visualization and monitoring.
 
+## This is not for Production. It is only meant for your local development
+
 ## Services
 ### 1. **PostgreSQL** (`wikijs_postgres`)
 - Image: `postgres:14`
